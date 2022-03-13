@@ -1,0 +1,22 @@
+{
+  "name": "write-js-by-hands",
+  "version": "1.0.0",
+  "description": "- [ ] [promise](/promise/README.md) - [ ] [new / apply / call / bind](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=601#/detail/pc?id=6177) - [ ] [deep clone](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=601#/detail/pc?id=6175) - [ ] [JSON.Stringify](https://kaiwu.lagou.com/course/courseInfo.htm?courseId=601#/detail/pc?id=6179)",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests promise/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fyzhu/write-js-by-hands.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fyzhu/write-js-by-hands/issues"
+  },
+  "homepage": "https://github.com/fyzhu/write-js-by-hands#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
