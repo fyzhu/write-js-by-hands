@@ -5,5 +5,6 @@
 - [x] [promise](/promise/)
 - [ ] [Thunk](/thunk/) [Thunk 函数的含义和用法](https://www.ruanyifeng.com/blog/2015/05/thunk.html)
 - [ ] [compose](/compose/)
+- [ ] [防抖节流](//)
 - [ ] [koa](/koa/)
 - [ ] [webpack](/webpack/)
