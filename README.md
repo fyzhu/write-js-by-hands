@@ -8,3 +8,4 @@
 - [ ] [防抖节流](//)
 - [ ] [koa](/koa/) [koa](https://coding.imooc.com/learn/list/320.html)
 - [ ] [webpack](/webpack/)
+- [ ] [vite](/vite/)
